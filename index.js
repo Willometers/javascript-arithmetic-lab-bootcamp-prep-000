@@ -18,6 +18,8 @@ function parseFloat() {
 }
 function isNaN() {
 }
+function preserveDecimal() {
+}
 function add(a,b) {
   return a += b
 }
